@@ -4,5 +4,5 @@
 <<<<<<< HEAD
 Conflict remote上で更新(コンフリクト発生)
 Rebase pull用2回目
-stash練習(トラック済み)
+stash練習(2nd変更)
 
